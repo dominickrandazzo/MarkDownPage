@@ -1,0 +1,7 @@
+﻿## My Favorite Animals
+
+based off my own **opinion**
+
+---
+#### Dog
+![Dog](https://ggsc.s3.amazonaws.com/images/made/images/uploads/The_Science-Backed_Benefits_of_Being_a_Dog_Owner_600_400_int_c1-2x.jpg)
